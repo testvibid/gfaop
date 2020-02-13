@@ -1,7 +1,7 @@
 {
     "app_id": "mobile.egfaop.org",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "appname": "egfaop Mobile",
+    "desktopappname": "egfaop Desktop",
     "versioncode": 3800,
     "versionname": "3.8.0",
     "cache_update_frequency_usually": 420000,
@@ -75,8 +75,8 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "siteurl": "http://egfaop.org",
+    "sitename": "egfaop",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,

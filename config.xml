@@ -7,14 +7,14 @@
         android-versionCode = "38001"
         ios-CFBundleVersion = "3.8.0.1"
         version   = "3.8.0">
-    <name>Moodle</name>
+    <name>egfaop</name>
 
     <description>
-        Moodle official app
+        egfaop official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+       vibidsoft team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
