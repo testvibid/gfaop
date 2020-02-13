@@ -7,10 +7,10 @@
         android-versionCode = "38001"
         ios-CFBundleVersion = "3.8.0.1"
         version   = "3.8.0">
-    <name>e-gfaop</name>
+    <name>egfaop</name>
 
     <description>
-        e-gfaop official app
+        egfaop official app
     </description>
 
     <author href="http://vibidsoft.com" email="harshil@vibidsoft.com">
