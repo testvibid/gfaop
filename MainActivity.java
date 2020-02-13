@@ -14,7 +14,7 @@
 
 // Based on the template node_modules/cordova-android/bin/templates/project/Activity.java
 
-package org.egfaop.elearning;
+package mobile.egfaop.org;
 
 import android.os.Bundle;
 import android.view.KeyEvent;
