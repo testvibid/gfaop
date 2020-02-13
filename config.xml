@@ -13,8 +13,8 @@
         egfaop official app
     </description>
 
-    <author href="http://vibidsoft.com" email="harshil@vibidsoft.com">
-        Vibidsoft team
+    <author href="http://moodle.com" email="mobile@moodle.com">
+       vibidsoft team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
