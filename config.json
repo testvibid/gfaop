@@ -1,7 +1,7 @@
 {
     "app_id": "com.moodle.moodlemobile",
-    "appname": "egfaop Mobile",
-    "desktopappname": "egfaop Desktop",
+    "appname": "e-gfaop Mobile",
+    "desktopappname": "e-gfaop Desktop",
     "versioncode": 3800,
     "versionname": "3.8.0",
     "cache_update_frequency_usually": 420000,
@@ -57,18 +57,6 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
     "font_sizes": [
         62.5,
         75.89,
@@ -76,11 +64,11 @@
     ],
     "customurlscheme": "moodlemobile",
     "siteurl": "http://e-gfaop.org",
-    "sitename": "egfaop",
+    "sitename": "e-gfaop",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
-    "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
+    "privacypolicy": "http://e-gfaop.org/politique.html",
     "notificoncolor": "#f98012",
     "statusbarbg": false,
     "statusbarlighttext": false,
