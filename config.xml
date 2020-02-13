@@ -2,19 +2,19 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "mobile.e-gfaop.org"
         versionCode = "38000"
         android-versionCode = "38001"
         ios-CFBundleVersion = "3.8.0.1"
         version   = "3.8.0">
-    <name>Moodle</name>
+    <name>e-gfaop</name>
 
     <description>
-        Moodle official app
+        e-gfaop official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://vibidsoft.com" email="harshil@vibidsoft.com">
+        Vibidsoft team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
